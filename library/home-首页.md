@@ -1,10 +1,8 @@
 
 
-![](amWiki/images/logo.png "huangTao")  
+![](amWiki/images/logo.png "GPNU")  
 
-—— **此网站用于个人知识整理**  
+—— **此网站为GPNU深度学习实验室资源网站**  
 
-**My Github**: **[huangtao36](https://github.com/huangtao36)**
+**My Github**: **[GPNUdeeplearning](https://github.com/GPNUdeeplearning)**
 
-## 大神官方
->- [Xiaowei Zhou: http://www.cad.zju.edu.cn/home/xzhou/](http://www.cad.zju.edu.cn/home/xzhou/)

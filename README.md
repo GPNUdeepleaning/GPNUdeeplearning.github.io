@@ -1,3 +1,3 @@
-# 韬小虾
+# GPNU
 
-我的个人博客：<https://huangtao36.github.io/>
+我的个人博客：<https://gpnudeeplearning.github.io/>
